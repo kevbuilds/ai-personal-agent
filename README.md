@@ -137,12 +137,4 @@ This project is open source and available under the MIT License.
 
 I'm Kevin Nguyen, a data engineer and analytics consultant pursuing a master's degree in Artificial Intelligence at the University of Texas. I'm passionate about building practical AI solutions that solve real-world problems.
 
-**Connect with me:**
-- Try the agent: [Launch the app]
-- Email: [Your email if you want to include it]
-- LinkedIn: [Your LinkedIn URL if you want to include it]
-- GitHub: [Your GitHub profile]
-
----
-
 *Built with ❤️ as part of my AI learning journey*
